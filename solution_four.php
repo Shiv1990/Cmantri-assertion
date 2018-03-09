@@ -1,5 +1,13 @@
 #!/usr/bin/php7.0
 <?php
+
+#
+#  Kindly place student_data.txt file in current directory before execution.
+#
+#
+#
+
+
   # removing file name from arguements
      if(isset($argv[0])) { 
 		unset($argv[0]);
