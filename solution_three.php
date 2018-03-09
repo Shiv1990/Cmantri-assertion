@@ -1,5 +1,13 @@
 #!/usr/bin/php7.0	
 <?php
+
+#
+#  Kindly place phonebook.json in current directory before execution.
+#
+#
+#
+
+
 $filename = "phonebook.json";
 
 # removing file name from arguements
